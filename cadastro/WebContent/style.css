@@ -1,0 +1,55 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;1,500&display=swap');
+
+
+body {
+	font-family: 'Poppins', sans-serif;
+	font-size: 1em;
+	font-weight: 400;
+}
+
+h1 {
+	color: #B0E0E6;
+}
+
+.Botao1 {
+	text-decoration: none;
+	background-color: #B0E0E6;
+	padding: 5px 10px 5px 10px;
+	color: #fff;
+	font-size: 1.2em;
+	border-radius: 5px;
+	border: 0;
+	cursor: pointer;
+}
+
+.Campo1 {
+	width: 320px;
+	padding: 5px;
+	margin-bottom: 10px;
+	border: 1px solid #66bbff;
+	border-radius: 5px;
+}
+
+#tabela {
+	margin-top: 30px;
+}
+
+#tabela th {
+	border: 1x solid #ddd;
+	padding: 10px;
+	text-align: left;
+	background-color: #B0E0E6;
+	color: #fff;
+}
+
+.Botao2 {
+	text-decoration: none;
+	background-color: #d51213;
+	padding: 5px 10px 5px 10px;
+	color: #fff;
+	font-size: 1.2em;
+	border-radius: 5px;
+	border: 0;
+	cursor: pointer;
+}
